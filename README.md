@@ -1,4 +1,4 @@
-# Obsidian-Empire-Passport-Creator-App
+# Obsidian Empire Passport Creator App
 Приложение для простого и удобного создания паспорта
 
 Новое приложения для создания паспортов, написанное при помощи Deepseek и DuckDuckGo AI chat-gpt-5 (я не кодер, но и запрягать других работать за бесплатно, я не собираюсь).
